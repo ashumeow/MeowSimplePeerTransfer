@@ -8,7 +8,8 @@ For Demo --> <a href="http://www.windowsgeekpro.in/MeowSimplePeerTransfer/MeowFi
 <br>
 Advantages:- <br>
 --- Fast Transfer. <br>
---- 100% Privacy.
+--- 100% Privacy. <br>
+--- Highly user-friendly for laptop/desktop users. Mobile users might find it hard to drag/drop the files while sending them, but they have no difficult while receiving the files.
 <br> 
 <br>
 <a href="https://github.com/ashumeow/MeowSimplePeerTransfer/blob/master/LICENSE">MIT License</a>
